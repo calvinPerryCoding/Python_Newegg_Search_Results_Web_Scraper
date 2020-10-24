@@ -1,7 +1,0 @@
-This web scraper scans the search results for a product on newegg
-
-It then exports to the results to a csv file which can be opened with MS Excel
-
-If an item is on sale the word SALE will appear in the first cell, otherwise the first cell is blank
-
-Unfortunately newegg has blocked the program, and the results will no longer show up in the csv file

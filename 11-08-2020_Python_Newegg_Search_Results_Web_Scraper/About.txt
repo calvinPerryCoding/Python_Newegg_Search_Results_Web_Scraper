@@ -1,0 +1,14 @@
+This web scraper scans the search results for a product on newegg
+It then exports to the results to a csv file which can be opened with MS Excel
+
+New Features:
+current price and shipping have their own columns
+added progress bar(credits in program)
+
+bugs to fix:
+product URL
+wasPrice
+ratings
+
+Features to add in the future:
+Graphs
